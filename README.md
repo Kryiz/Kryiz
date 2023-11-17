@@ -2,7 +2,7 @@
 Фронтенд-разработчик
 
 #### Стек:
-- React, Redux/Redux-Toolkit, Typescript, JavaScript, Tailwind, Html, Css, Bs3-5, Git & etc
+- `React` `Redux/Redux-Toolkit` `Typescript` `JavaScript` `Tailwind` `Html` `Css` `Bs3-5` `Git` & etc
 
 
 #### Контакты:
