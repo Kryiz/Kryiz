@@ -6,4 +6,4 @@
 
 
 #### Контакты:
-- [Мой Telegram](t.me/@AntonKryiz) 📲
+- [Мой Telegram](https://t.me/@AntonKryiz) 📲
